@@ -1,0 +1,5 @@
+#ignorer le fichier tmp a la racine
+/tmp 
+#ignorer tous les fichiers wordpress
+*.php
+
